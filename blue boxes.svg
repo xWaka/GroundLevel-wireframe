@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="50" viewBox="0 0 100 50">
+  <defs>
+    <clipPath id="clip-blue_boxes">
+      <rect width="100" height="50"/>
+    </clipPath>
+  </defs>
+  <g id="blue_boxes" data-name="blue boxes" clip-path="url(#clip-blue_boxes)">
+    <rect width="100" height="50" fill="#507d9f"/>
+  </g>
+</svg>
